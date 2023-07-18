@@ -1,0 +1,426 @@
+{
+    "kids":[
+        {
+            "id":1,
+            "title":"Boys Solid Full Sleeve Cotton Shirt",
+            "img":"https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1333,quality=90,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITBSH01281LS-Olive_01.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"boys-solid-tshirt",
+            "category":"kids"
+        },
+        {
+            "id":2,
+            "title":"Buy Blue Solid Full Sleeves Shirt for Boys",
+            "img":"https://images.bestsellerclothing.in/data/JJ/16-june-2022/134159001_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":699,
+            "slug":"blue-boys-solid-tshirt",
+            "category":"kids"
+        },
+        {
+            "id":3,
+            "title":"Boys full sleeves sweat shirt with cap",
+            "img":"https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1333,quality=90,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITBSH01281LS-Olive_01.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1299,
+            "slug":"boys-full-sleve-shirt",
+            "category":"kids"
+        },
+        {
+            "id":4,
+            "title":"Cotton Kids Shirts",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWV7wV9QgRvfKT7dKIt-4KBrF4jfza0BPEQ&usqp=CAU",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":899,
+            "slug":"sky-kids-shirt",
+            "category":"kids"
+        },
+        {
+            "id":5,
+            "title":"Boys Basic Cotton T-Shirt - Navy Blue",
+            "img":"https://contents.mediadecathlon.com/p2174110/dca6e331d8baa2d72e027855a611cf86/p2174110.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":499,
+            "slug":"navy-blue-solid-tshirt",
+            "category":"kids"
+        },
+        {
+            "id":6,
+            "title":"Maroon Kids Shirts",
+            "img":"https://rukminim2.flixcart.com/image/550/650/l4n2oi80/shirt/l/f/c/12-13-years-722-cloud-kids-original-imagfhnaena9487g.jpeg?q=90&crop=false",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"maroom-kids-shirt",
+            "category":"kids"
+        },
+        {
+            "id":7,
+            "title":"White Green Bos Girls Shirts Marvel",
+            "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20242218/2022/10/1/b878e693-58cc-4eb0-bb94-dab37771d26f1664601128528Cottonshirt1.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1099,
+            "slug":"girls-bos-green",
+            "category":"kids"
+        },
+        {
+            "id":8,
+            "title":"Custom girls t-shirts",
+            "img":"https://src1.ilogo.in/images/products/8472/custom-girls-t-shirts.webp",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":799,
+            "slug":"girls-bos-custom",
+            "category":"kids"
+        }
+    ],
+    "mens":[
+        {
+            "id":9,
+            "title":"Mens denim casual with jeans",
+            "img":"https://images.bewakoof.com/utter/content/2726/content_Jeans_jackets.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1699,
+            "slug":"mens-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":10,
+            "title":"Men Regular Fit Solid Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/e/e/h/s-den-sng-01-regrowth-original-imaganhquyfzd3kz-bb.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1599,
+            "slug":"mens-regular-size-shirt",
+            "category":"mens"
+        },
+        {
+            "id":11,
+            "title":"Men Tailored Fit Solid Spread Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/g/j/k/xl-sr-vf-cargo-white-vulture-fly-original-imaghvz6khvnadpc.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1599,
+            "slug":"mens-white-denim-size-shirt",
+            "category":"mens"
+        },
+        {
+            "id":12,
+            "title":"Men Regular Fit Solid Cut Away Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/m/a/u/s-cz-den-fs-db-blk-cazzba-original-imagpzgvyftzhykp.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":599,
+            "slug":"mens-fit-white-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":13,
+            "title":"Men Regular Fit Solid Spread Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/i/b/p/s-st2-vebnor-original-imagpv8vufgg5egp.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"mens-green-fir-dj-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":14,
+            "title":"Men Slim Fit Checkered Cut Away Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/u/r/k/38-aradosh1277-arrow-original-imagp7szww2hds8q.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"mens-check-fir-dj-denim-shirt",
+            "category":"mens"
+        }
+        
+    ],
+    "women":[
+        {
+            "id":15,
+            "title":"Floral Print Bollywood Lycra Blend Saree  (Black)",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":359,
+            "slug":"womens-black-saree",
+            "category":"women"
+        },
+        {
+            "id":16,
+            "title":"Women Printed Crepe Straight Kurta  (Multicolor)",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/w/v/z/m-kurti-107-psl-original-imagkysb5mhgsujv.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":299,
+            "slug":"womens-black-kurta",
+            "category":"women"
+        },
+        {
+            "id":17,
+            "title":"Casual Regular Sleeves Embroidered Women Maroon Top",
+            "img":"https://rukminim2.flixcart.com/image/832/832/knni7ww0/top/o/m/o/s-dmp303-dmp-fashion-original-imag2a5qkjgjf22k.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":299,
+            "slug":"womens-maroom-top",
+            "category":"women"
+        },
+        {
+            "id":18,
+            "title":"Woven Kanjivaram Pure Silk, Art Silk Saree  (Light Green)",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/sari/l/r/s/free-av-75-aracruz-unstitched-original-imagbgdzex7hcj4t.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":1999,
+            "slug":"womens-pink-silk-saree",
+            "category":"women"
+        },
+        {
+            "id":19,
+            "title":"Casual Flared Sleeves Printed Women Green Top",
+            "img":"https://rukminim2.flixcart.com/image/832/832/kp8ntzk0/top/l/l/f/m-00128-top-dl-fashion-original-imag3gr4he5twhw3.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":1999,
+            "slug":"womens-green-silk-top",
+            "category":"women"
+        },
+        {
+            "id":20,
+            "title":"Women Jogger Fit Mid Rise Light Blue, Dark Blue Jeans ",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/jean/w/f/u/s-sys-2005-06-funday-fashion-original-imafu8b8sedhq9gn-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":1999,
+            "slug":"womens-jeans-cool",
+            "category":"women"
+        },
+        {
+            "id":21,
+            "title":"Women Regular Fit Solid Spread Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/p/d/d/s-sys-b4003-funday-fashion-original-imafgfwkg5hzgxsq-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":499,
+            "slug":"womens-shirt-white-cool",
+            "category":"women"
+        },
+        {
+            "id":22,
+            "title":"Women A-line Black Dress",
+            "img":"https://rukminim2.flixcart.com/image/832/832/l52sivk0/dress/8/f/a/xxl-radhi-gown-fashion2wear-original-imagfu5h8tghkfsy.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":299,
+            "slug":"womens-a-line-black-white-cool",
+            "category":"women"
+        },
+        {
+            "id":23,
+            "title":"Women Solid Denim Jacket",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/p/d/q/m-sys-4175-funday-fashion-original-imafp8uxzpc7acsh-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":799,
+            "slug":"womens-denim-jacket",
+            "category":"women"
+        }
+    ],
+    "all":[
+        {
+            "id":1,
+            "title":"Boys Solid Full Sleeve Cotton Shirt",
+            "img":"https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1333,quality=90,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITBSH01281LS-Olive_01.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"boys-solid-tshirt",
+            "category":"kids"
+        },
+        {
+            "id":2,
+            "title":"Buy Blue Solid Full Sleeves Shirt for Boys",
+            "img":"https://images.bestsellerclothing.in/data/JJ/16-june-2022/134159001_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":699,
+            "slug":"blue-boys-solid-tshirt",
+            "category":"kids"
+        },
+        {
+            "id":3,
+            "title":"Boys full sleeves sweat shirt with cap",
+            "img":"https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1333,quality=90,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITBSH01281LS-Olive_01.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1299,
+            "slug":"boys-full-sleve-shirt",
+            "category":"kids"
+        },
+        {
+            "id":4,
+            "title":"Cotton Kids Shirts",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWV7wV9QgRvfKT7dKIt-4KBrF4jfza0BPEQ&usqp=CAU",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":899,
+            "slug":"sky-kids-shirt",
+            "category":"kids"
+        },
+        {
+            "id":5,
+            "title":"Boys Basic Cotton T-Shirt - Navy Blue",
+            "img":"https://contents.mediadecathlon.com/p2174110/dca6e331d8baa2d72e027855a611cf86/p2174110.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":499,
+            "slug":"navy-blue-solid-tshirt",
+            "category":"kids"
+        },
+        {
+            "id":6,
+            "title":"Maroon Kids Shirts",
+            "img":"https://rukminim2.flixcart.com/image/550/650/l4n2oi80/shirt/l/f/c/12-13-years-722-cloud-kids-original-imagfhnaena9487g.jpeg?q=90&crop=false",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"maroom-kids-shirt",
+            "category":"kids"
+        },
+        {
+            "id":7,
+            "title":"White Green Bos Girls Shirts Marvel",
+            "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20242218/2022/10/1/b878e693-58cc-4eb0-bb94-dab37771d26f1664601128528Cottonshirt1.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1099,
+            "slug":"girls-bos-green",
+            "category":"kids"
+        },
+        {
+            "id":8,
+            "title":"Custom girls t-shirts",
+            "img":"https://src1.ilogo.in/images/products/8472/custom-girls-t-shirts.webp",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":799,
+            "slug":"girls-bos-custom",
+            "category":"kids"
+        },
+        {
+            "id":9,
+            "title":"Mens denim casual with jeans",
+            "img":"https://images.bewakoof.com/utter/content/2726/content_Jeans_jackets.jpg",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1699,
+            "slug":"mens-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":10,
+            "title":"Men Regular Fit Solid Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/e/e/h/s-den-sng-01-regrowth-original-imaganhquyfzd3kz-bb.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1599,
+            "slug":"mens-regular-size-shirt",
+            "category":"mens"
+        },
+        {
+            "id":11,
+            "title":"Men Tailored Fit Solid Spread Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/g/j/k/xl-sr-vf-cargo-white-vulture-fly-original-imaghvz6khvnadpc.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":1599,
+            "slug":"mens-white-denim-size-shirt",
+            "category":"mens"
+        },
+        {
+            "id":12,
+            "title":"Men Regular Fit Solid Cut Away Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/m/a/u/s-cz-den-fs-db-blk-cazzba-original-imagpzgvyftzhykp.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":599,
+            "slug":"mens-fit-white-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":13,
+            "title":"Men Regular Fit Solid Spread Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/i/b/p/s-st2-vebnor-original-imagpv8vufgg5egp.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"mens-green-fir-dj-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":14,
+            "title":"Men Slim Fit Checkered Cut Away Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/u/r/k/38-aradosh1277-arrow-original-imagp7szww2hds8q.jpeg?q=70",
+            "des":"Best kids clothes for the modern world that will say everything about it.",
+            "price":999,
+            "slug":"mens-check-fir-dj-denim-shirt",
+            "category":"mens"
+        },
+        {
+            "id":15,
+            "title":"Floral Print Bollywood Lycra Blend Saree  (Black)",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":359,
+            "slug":"womens-black-saree",
+            "category":"women"
+        },
+        {
+            "id":16,
+            "title":"Women Printed Crepe Straight Kurta  (Multicolor)",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/w/v/z/m-kurti-107-psl-original-imagkysb5mhgsujv.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":299,
+            "slug":"womens-black-kurta",
+            "category":"women"
+        },
+        {
+            "id":17,
+            "title":"Casual Regular Sleeves Embroidered Women Maroon Top",
+            "img":"https://rukminim2.flixcart.com/image/832/832/knni7ww0/top/o/m/o/s-dmp303-dmp-fashion-original-imag2a5qkjgjf22k.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":299,
+            "slug":"womens-maroom-top",
+            "category":"women"
+        },
+        {
+            "id":18,
+            "title":"Woven Kanjivaram Pure Silk, Art Silk Saree  (Light Green)",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/sari/l/r/s/free-av-75-aracruz-unstitched-original-imagbgdzex7hcj4t.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":1999,
+            "slug":"womens-pink-silk-saree",
+            "category":"women"
+        },
+        {
+            "id":19,
+            "title":"Casual Flared Sleeves Printed Women Green Top",
+            "img":"https://rukminim2.flixcart.com/image/832/832/kp8ntzk0/top/l/l/f/m-00128-top-dl-fashion-original-imag3gr4he5twhw3.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":1999,
+            "slug":"womens-green-silk-top",
+            "category":"women"
+        },
+        {
+            "id":20,
+            "title":"Women Jogger Fit Mid Rise Light Blue, Dark Blue Jeans ",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/jean/w/f/u/s-sys-2005-06-funday-fashion-original-imafu8b8sedhq9gn-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":1999,
+            "slug":"womens-jeans-cool",
+            "category":"women"
+        },
+        {
+            "id":21,
+            "title":"Women Regular Fit Solid Spread Collar Casual Shirt",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/p/d/d/s-sys-b4003-funday-fashion-original-imafgfwkg5hzgxsq-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":499,
+            "slug":"womens-shirt-white-cool",
+            "category":"women"
+        },
+        {
+            "id":22,
+            "title":"Women A-line Black Dress",
+            "img":"https://rukminim2.flixcart.com/image/832/832/l52sivk0/dress/8/f/a/xxl-radhi-gown-fashion2wear-original-imagfu5h8tghkfsy.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":299,
+            "slug":"womens-a-line-black-white-cool",
+            "category":"women"
+        },
+        {
+            "id":23,
+            "title":"Women Solid Denim Jacket",
+            "img":"https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/p/d/q/m-sys-4175-funday-fashion-original-imafp8uxzpc7acsh-bb.jpeg?q=70",
+            "des":"Best womens clothes for the modern world that will say everything about it.",
+            "price":799,
+            "slug":"womens-denim-jacket",
+            "category":"women"
+        }
+        
+    ]
+}
