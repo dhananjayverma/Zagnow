@@ -12,5 +12,11 @@
   "dependencies": {
     "json-server": "^0.17.3",
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "npm": "9.5.1",
+    "node": "18.16.1"
   }
+
 }
+
